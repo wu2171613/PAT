@@ -1,2 +1,6 @@
 # maven
 target/
+
+# Intellij Idea
+.idea/
+*.iml
